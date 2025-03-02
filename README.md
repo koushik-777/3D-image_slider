@@ -6,6 +6,8 @@ A visually appealing 3D rotating image carousel built with pure HTML and CSS. Th
 
 Add screenshots or GIFs of your project here to showcase the 3D slider effect.
 
+Live Demo: [3D Image Slider](https://animated-belekoy-b8c6a6.netlify.app/)
+
 ## Features
 
 - **3D Rotating Image Carousel** with 10 image slots
@@ -57,4 +59,5 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 This project is licensed under the **MIT License**.
 
 ---
+
 
