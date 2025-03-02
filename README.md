@@ -1,6 +1,3 @@
-# 3D-image_slider
-
-
 3D Image Slider
 A visually appealing 3D rotating image carousel built with pure HTML and CSS. This project creates an immersive image viewing experience with a Spider-Man themed background and automatically rotating image slides.
 
@@ -25,9 +22,3 @@ CSS variables (--quantity and --position) determine the number of slides and the
 The rotateY transform positions each image around a circle
 @keyframes autoRun creates the continuous rotation animation
 Media queries ensure the slider looks good on all devices
-
-Customization
-Replace images in the images folder with your own
-Adjust the --quantity variable in the slider div if you change the number of images
-Modify the background by changing the Spider-Man image reference in the CSS
-Update the author information and social links in the HTML
